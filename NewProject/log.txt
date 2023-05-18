@@ -1,0 +1,2 @@
+Installed chaincodes on peer:
+Package ID: evote_1:5f5900b1a52e19306d1e2b7d1288c5121470f0fa5590cbb61c40cb176f63e004, Label: evote_1

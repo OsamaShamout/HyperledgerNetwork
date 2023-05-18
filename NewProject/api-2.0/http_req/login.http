@@ -1,0 +1,10 @@
+@base_url = http://localhost:4000
+# @bearer_token = Bearer
+
+@token = "Bearer your_token"
+
+GET {{base_url}}/users/
+Content-Type: application/json
+
+Authorization: token {{token}}
+
